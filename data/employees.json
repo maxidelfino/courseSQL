@@ -1,0 +1,92 @@
+[
+    {
+        "id_employee": 1,
+        "name_employee": "Chancey",
+        "lastname_employee": "Stuchburie",
+        "email_employee": "cstuchburie0@cyberchimps.com",
+        "password_employee": "lyxFg6QM8lY",
+        "roles": 3,
+        "rate": 27
+    },
+    {
+        "id_employee": 2,
+        "name_employee": "Nolie",
+        "lastname_employee": "Velden",
+        "email_employee": "nvelden1@businessweek.com",
+        "password_employee": "P8cDMKZCera",
+        "roles": 2,
+        "rate": 18
+    },
+    {
+        "id_employee": 3,
+        "name_employee": "Janelle",
+        "lastname_employee": "Moran",
+        "email_employee": "jmoran2@shinystat.com",
+        "password_employee": "z5jMAtHCTAI",
+        "roles": 4,
+        "rate": 23
+    },
+    {
+        "id_employee": 4,
+        "name_employee": "Emmalynne",
+        "lastname_employee": "Neylon",
+        "email_employee": "eneylon3@chicagotribune.com",
+        "password_employee": "EYRCzZSbcAmT",
+        "roles": 1,
+        "rate": 21
+    },
+    {
+        "id_employee": 5,
+        "name_employee": "Antonius",
+        "lastname_employee": "Simionato",
+        "email_employee": "asimionato4@google.co.jp",
+        "password_employee": "b9Fk9Bc9",
+        "roles": 4,
+        "rate": 77
+    },
+    {
+        "id_employee": 6,
+        "name_employee": "Kerri",
+        "lastname_employee": "Boner",
+        "email_employee": "kboner5@alexa.com",
+        "password_employee": "xZDjFF1W",
+        "roles": 3,
+        "rate": 60
+    },
+    {
+        "id_employee": 7,
+        "name_employee": "Westbrooke",
+        "lastname_employee": "Hurt",
+        "email_employee": "whurt6@w3.org",
+        "password_employee": "LjvGkfZyqDES",
+        "roles": 1,
+        "rate": 55
+    },
+    {
+        "id_employee": 8,
+        "name_employee": "Tamqrah",
+        "lastname_employee": "Orbon",
+        "email_employee": "torbon7@123-reg.co.uk",
+        "password_employee": "VqYC2uRR",
+        "roles": 1,
+        "rate": 44
+    },
+    {
+        "id_employee": 9,
+        "name_employee": "Ruthanne",
+        "lastname_employee": "Wasteney",
+        "email_employee": "rwasteney8@miibeian.gov.cn",
+        "password_employee": "W57ajdbjQjG3",
+        "roles": 2,
+        "rate": 53
+    },
+    {
+        "id_employee": 10,
+        "name_employee": "Alfred",
+        "lastname_employee": "Dillicate",
+        "email_employee": "adillicate9@discuz.net",
+        "password_employee": "kM2QG3X",
+        "roles": 3,
+        "rate": 41
+    }
+]

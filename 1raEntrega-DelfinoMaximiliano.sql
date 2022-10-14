@@ -30,8 +30,6 @@ create table project(
     foreign key(project_by)	references business(id_business)
 );
 
-select * from business;
-
 insert into employee (name_employee, lastname_employee, email_employee, password_employee, rate)
 values
 	("max", "delfino", "maxi@gmail.com", "12345678",280),
@@ -71,4 +69,3 @@ values
 	("integrate_tool", 5),
 	("new_tool", 6);
     
-    select * from project;
